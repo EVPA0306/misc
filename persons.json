@@ -1,0 +1,16 @@
+[{
+  "id":"c1c39dc2-960a-43b7-b3c4-b11b5dcc6146",
+  "name": "Ivan",
+  "age": 6
+},
+  {
+    "id":"c1c39dc2-961b-43b7-b3c4-b11b5dcc6146",
+    "name": "Sasha",
+    "age": 13
+  },
+  {
+    "id":"c1c39dc2-960a-44c7-b3c4-b11b5dcc6146",
+    "name": "Arina",
+    "age": 13
+  }
+]
